@@ -9,6 +9,8 @@ echo Starting Install
 pkg install proot-distro -y
 proot-distro install debian
 proot-distro login debian
+#added for termuxx11
+pkg install x11-repo
 
 #login debian
 #update repo
@@ -42,4 +44,3 @@ echo set address as localhost:1 in the vnc server and set picture quality to hig
 echo 127.0.0.1:5901 or localhost:01
 echo ---------------------
 echo Install Complete
-echo 
