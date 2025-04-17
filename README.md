@@ -17,7 +17,7 @@ Ensure you have **Termux** installed on your Android device.
    ```
 3. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Keonbe/Termux-GUI_Desktop-Install
    ```
 4. Navigate to the cloned directory:
    ```sh
