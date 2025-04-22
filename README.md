@@ -21,15 +21,15 @@ Ensure you have **Termux** installed on your Android device.
    ```
 4. Navigate to the cloned directory:
    ```sh
-   cd your-repo
+   cd Termux-GUI_Desktop-Install
    ```
 5. Give execution permissions to the script:
    ```sh
-   chmod +x setup.sh
+   chmod +x termux-desktop.sh
    ```
 6. Run the script:
    ```sh
-   ./setup.sh
+   ./termux-desktop.sh
    ```
 
 ## Usage
